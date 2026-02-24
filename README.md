@@ -21,7 +21,7 @@
 
 ### Тестирование
 
-![](C:\Users\Надежда\source\repos\ConsoleApp1\ConsoleApp1)
+![](https://github.com/Pank-cake/Laboratory_1/blob/main/Test/Test1.PNG)
 
 
 # Задание 2. Рекурсия
@@ -43,7 +43,7 @@
 
 ### Тестирование
 
-![](C:\Users\Надежда\source\repos\ConsoleApp2\ConsoleApp2)
+![](https://github.com/Pank-cake/Laboratory_1/blob/main/Test/Test2.PNG)
 
 
 # Задание 3. 
@@ -88,4 +88,4 @@
 
 ### Тестирование
 
-![](C:\Users\Надежда\source\repos\ConsoleApp3\ConsoleApp3)
+![](https://github.com/Pank-cake/Laboratory_1/blob/main/Test/Test3.png)
